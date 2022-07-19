@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    height: 100vh;
+    width: 100vw;
+}
+
+
+
+.btn{
+ background-color: transparent;
+ border: 2px solid black;
+ border-radius: 1.6rem;
+ font-size: 1rem;
+ font-weight: 500;
+ padding: 1.7rem 2.6rem;
+ margin: 17.5rem 36rem;
+ text-align: center;
+ cursor: pointer;
+ font-family: "Montserrat";
+}
+
+#a{
+    text-decoration: none;
+    color: black;
+}
